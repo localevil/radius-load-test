@@ -1,0 +1,28 @@
+#
+# Number of reqests
+#
+request_num: 100000
+start_num: 5
+#
+#grothw numder by tik
+#
+growth: 2
+#
+# time to growth in seconds
+#
+grothw_time: 10
+#
+#growth type
+#   geometric, linear, sharp, straight
+#
+growth_type: linear
+#
+# Path to log file
+#
+log_file: log.txt
+#
+#Path to users base
+#   user1
+#   user2
+#
+users_file: users
